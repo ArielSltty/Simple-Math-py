@@ -1,6 +1,3 @@
-# Ariel Siletty
-# Nim : 202351057
-
 print("***Perusahaan Boneka***")
 
 x = int(input("Masukkan jumlah boneka yang ingin dibeli: "))
